@@ -15,7 +15,7 @@ const pickupLines = [
   "I lost my phone number, can I borrow yours?",
   "I'd love to take you out to the movies, but they don't allow snacks.",
   "Math is confusing. It's always talking about x and y and never you and I.",
-  "Are you a scientist? Because I want to do you on a table periodically.",
+  "Angels should be in heaven. How'd you escape?",
   "Are you from France? Cause, maDAMN you're fine!",
   "Are you a charger? Because I'm dying without you.",
   "No pen, no paper...but still, you draw my attention.",
